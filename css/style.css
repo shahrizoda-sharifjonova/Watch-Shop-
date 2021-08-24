@@ -217,13 +217,14 @@
 }
 
 .footer{
-    margin-top: 100px;
+    margin-top: 140px;
     background-color: #ffd9e3;
 }
 
 .footer__img{
-    margin-top: -30px;
+    margin-top: -89px;
     width: 300px;
+    transform: rotate(16deg);
 }
 
 .footer__rows{
@@ -260,7 +261,7 @@
     margin-top: 5px;
 }
 
-  
+
 
 
 
